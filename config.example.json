@@ -1,0 +1,6 @@
+{
+    "v2token": "v2 个人 token",
+    "notifyUrl": "云函数 http 访问地址",
+    "notifyKey": "云函数自定义消息发送 key"
+  }
+  

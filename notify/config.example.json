@@ -1,0 +1,11 @@
+{
+    "permissions": {
+      "openapi": []
+    },
+    "secretKey": "服务号开发管理 secretKey",
+    "appId": "小程序 id",
+    "serviceAccountId": "服务号 id",
+    "templateId": "服务号模板消息 id",
+    "sendKey": "自定义接口 key"
+  }
+  
